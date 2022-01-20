@@ -8,6 +8,7 @@
 * [Read ASICs Logs](how-to/read-asics-logs.md)
 * [User Pool Whitelist](how-to/user-pool-whitelist.md)
 * [Reboot ASICs](how-to/reboot-asics.md)
+* [Buy Worker](how-to/buy-worker.md)
 * [Topup by paypal](how-to/topup-by-paypal.md)
 * [Topup by crypto](how-to/topup-by-crypto.md)
 * [Lock Credit](how-to/lock-credit.md)
