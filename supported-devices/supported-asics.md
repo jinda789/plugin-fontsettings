@@ -8,15 +8,17 @@ S9 Official Firmware
 {% endtab %}
 
 {% tab title="L3" %}
+L3 Official Firmware
 
+L3 Official Custom , Hiveos, ChinaOS&#x20;
 {% endtab %}
 
 {% tab title="S17-T17" %}
-
+S17,T17 Official Firmware
 {% endtab %}
 
 {% tab title="S19 All" %}
-OOs
+S19 Official Firmware
 {% endtab %}
 {% endtabs %}
 
