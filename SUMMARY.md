@@ -4,6 +4,7 @@
 
 ## How to
 
+* [Dashboard](how-to/dashboard.md)
 * [Read ASICs Logs](how-to/read-asics-logs.md)
 * [User Pool Whitelist](how-to/user-pool-whitelist.md)
 * [Reboot ASICs](how-to/reboot-asics.md)
