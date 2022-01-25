@@ -1,3 +1,0 @@
-# Asic Tools configuration
-
-.....

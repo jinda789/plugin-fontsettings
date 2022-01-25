@@ -1,3 +1,0 @@
-# Lock Credit
-
-Lock Credit
