@@ -1,3 +1,0 @@
-# Buy Worker
-
-Buy Worker

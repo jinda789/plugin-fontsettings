@@ -1,6 +1,5 @@
 # Get Started
 
-## Preparation
+Mines789 Monitoring ระบบการควบคุม ASIC แบบครบวงจร พร้อมให้คุณใช้งานได้จากทั่วทุกมุมโลกด้วยปลายนิ้วมือ สั่งการทุกอย่างได้ด้วยแอพพลิเคชั่นเดียว
 
-Asic....Manchine
-
+![](<.gitbook/assets/Screen Shot 2565-01-24 at 14.48.34.png>)

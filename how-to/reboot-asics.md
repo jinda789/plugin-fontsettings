@@ -1,3 +1,0 @@
-# Reboot ASICs
-
-Reboot ASICs
